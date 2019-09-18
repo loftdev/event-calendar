@@ -1,29 +1,6 @@
-# vue-eventapp
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# event-calendar
+The function of this program is to create event and highlight it in the calendar
+# Screenshot
+![image]()
+# Demo
+[demo video](https://github.com/loftdev/event-calendar/blob/master/Image/event-calendar.mov)
