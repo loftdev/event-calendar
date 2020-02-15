@@ -19,7 +19,7 @@
     "vue": "^2.6.10",
     "vue-fullcalendar": "^1.0.9",
     "vuejs-datepicker": "^1.6.2",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
